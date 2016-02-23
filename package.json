@@ -1,0 +1,16 @@
+{
+  "name": "filetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Hoover",
+  "license": "ISC",
+  "dependencies": {
+    "mkdir": "0.0.2",
+    "mkdirp": "^0.5.1",
+    "node-watch": "^0.3.5"
+  }
+}
